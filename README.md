@@ -5,7 +5,7 @@ VARIABLES
 *   variables únicamente lectura `val`
 *   variable cambiantes `var`
 
-  
+  w
 
 Los mas comunes
 
